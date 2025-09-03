@@ -20,7 +20,7 @@ mongod --version
 
 1. **โคลน repository**
    ```bash
-   git clone <your-repository-url>
+   git clone  https://github.com/patiwatpanda/product_management.git
    cd Products_management/Backend
    ```
 
